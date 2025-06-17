@@ -13,8 +13,8 @@ Please support the official game on Steam and *play* with Sultan's chocolate che
   <img src="resources/me.png" alt="我打苏丹？" width="130"/>
 </p>
 
-本仓库通过`get_sultan_card_from_wiki.py`脚本，从苏丹的游戏wiki获取图像资源，将卡面和背景png图像组合，并以WIKI风格将文本绘制到图像上（可能是最高清的版本）。  
-This repo uses the `get_sultan_card_from_wiki.py` script to fetch image resources from the Sultan's Game Wiki, combine card faces and backgrounds, and render text in a wiki-like style onto the images (possibly the highest quality version available).
+本仓库通过`get_sultan_card_from_wiki.py`脚本，从苏丹的游戏wiki获取图像资源，将卡面和背景png图像组合，并以WIKI的CSS样式表风格将文本绘制到图像上（可能是最高清的版本）。
+This repo uses the `get_sultan_card_from_wiki.py` script to fetch image resources from the Sultan's Game Wiki, combine card faces and backgrounds, and render text in a wiki-like CSS style onto the images (possibly the highest quality version available).
 
 ---
 
@@ -63,3 +63,4 @@ python write_own_text.py \
 The in-game font is `汉仪杰龙桃花源.ttf`(For Chinese game version). Please support the official font!
 
 实现很简单所以~~有人能给我写个github.io的前端玩吗~~  
+PS：由于是使用Pillow库近似了CSS样式表的行为，所以可能在少数卡片上出现细微的和游戏里的卡片不太一致的情况。出现这种情况欢迎提PR
