@@ -7,7 +7,12 @@ High-definition card images of Sultan's Game, created using resources from the S
 请Steam购买正版游戏~~并撅巧克力奶苏丹王~~，主控替阿尔图谢谢大家喵（幸福感）  
 Please support the official game on Steam! ~~And *play* with Sultan's chocolate chest~~. Main controller Arzu thanks everyone! (Sense of Happiness)
 
-![布什](resources/bushi.png)![戈门](resources/gemen.png)![我打苏丹？](/Users/jyxc0100522/Sultan-s_game_cards/resources/me.png)
+<!-- 让三张图片并排显示，可以用HTML的方式： -->
+<p align="center">
+  <img src="resources/bushi.png" alt="布什" width="130"/>
+  <img src="resources/gemen.png" alt="戈门" width="130"/>
+  <img src="resources/me.png" alt="我打苏丹？" width="130"/>
+</p>
 
 本仓库通过`get_sultan_card_from_wiki.py`脚本，从苏丹的游戏wiki获取图像资源，将卡面和背景png图像组合，并以WIKI风格将文本绘制到图像上（可能是最高清的版本）。  
 This repo uses the `get_sultan_card_from_wiki.py` script to fetch image resources from the Sultan's Game Wiki, combine card faces and backgrounds, and render text in a wiki-like style onto the images (possibly the highest quality version available).
