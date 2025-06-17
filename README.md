@@ -5,9 +5,8 @@ High-definition card images of Sultan's Game, created using resources from the S
 
 图片素材来源（Image Source）：[苏丹的游戏wiki (Sultan's Game Wiki)](https://wiki.biligame.com/sultansgame/%E9%A6%96%E9%A1%B5)  
 请Steam购买正版游戏~~并撅巧克力奶苏丹王~~，主控替阿尔图谢谢大家喵（幸福感）  
-Please support the official game on Steam! ~~And *play* with Sultan's chocolate chest~~. Main controller Arzu thanks everyone! (Sense of Happiness)
+Please support the official game on Steam and *play* with Sultan's chocolate chest! Main controller Arzu thanks everyone! (Sense of Happiness)
 
-<!-- 让三张图片并排显示，可以用HTML的方式： -->
 <p align="center">
   <img src="resources/bushi.png" alt="布什" width="130"/>
   <img src="resources/gemen.png" alt="戈门" width="130"/>
@@ -19,8 +18,7 @@ This repo uses the `get_sultan_card_from_wiki.py` script to fetch image resource
 
 ---
 
-## 高清png卡牌素材，带透明通道  
-## High-Definition PNG Card Assets (with Alpha Channel)
+## 高清png卡牌素材，带透明通道 High-Definition PNG Card Assets (with Alpha Channel)
 
 下载地址（Download link）：[Baidu Netdisk 百度网盘](https://pan.baidu.com/s/1zcsuSx1sf6tMN_xv_r2-iA?pwd=xeha)
 
